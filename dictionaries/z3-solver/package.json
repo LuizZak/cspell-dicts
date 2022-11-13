@@ -1,0 +1,47 @@
+{
+  "name": "@cspell/dict-z3-solver",
+  "version": "1.0.0",
+  "description": "Z3 Solver dictionary for cspell. -- Private until verified",
+  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    ".": "./cspell-ext.json",
+    "./cspell": "./cspell-ext.json",
+    "./cspell-ext.json": "./cspell-ext.json"
+  },
+  "scripts": {
+    "build": "cross-env NODE_OPTIONS=--max_old_space_size=8192 cspell-tools-cli build",
+    "test": "head -n 1000 \"src/z3-solver.txt\" | cspell -v -c ./cspell-ext.json \"--local=*\" \"--languageId=*\" stdin",
+    "prepublishOnly": "echo OK",
+    "zip": "gzip -k -f dict/z3-solver.txt",
+    "prepare": "yarn run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streetsidesoftware/cspell-dicts.git"
+  },
+  "keywords": [
+    "cspell",
+    "cspell-ext",
+    "z3-solver",
+    "Z3 Solver",
+    "dictionary",
+    "spelling"
+  ],
+  "author": "Jason Dent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/streetsidesoftware/cspell-dicts/issues"
+  },
+  "homepage": "https://github.com/streetsidesoftware/cspell-dicts/blob/main/dictionaries/z3-solver#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "files": [
+    "dict/z3-solver.txt",
+    "cspell-ext.json",
+    "*.js",
+    "*.d.ts"
+  ]
+}
