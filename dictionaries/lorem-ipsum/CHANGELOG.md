@@ -22,6 +22,28 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-lorem-ipsum-v3.0.0...@cspell/dict-lorem-ipsum@4.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* Add hamburgevons ([c5adb6e](https://github.com/LuizZak/cspell-dicts/commit/c5adb6ea7698664d462cf354139cd7e7c453d1c4))
+
+
+### Miscellaneous
+
+* release main ([#1386](https://github.com/LuizZak/cspell-dicts/issues/1386)) ([114de11](https://github.com/LuizZak/cspell-dicts/commit/114de110aba5bc9159622afb9cf48643a1c90c50))
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-lorem-ipsum@2.0.1...@cspell/dict-lorem-ipsum@3.0.0) (2022-10-10)
 
 

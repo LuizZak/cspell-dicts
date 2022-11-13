@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-npm-v4.0.1...@cspell/dict-npm@5.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* add ulid ([#1260](https://github.com/LuizZak/cspell-dicts/issues/1260)) ([8687ba6](https://github.com/LuizZak/cspell-dicts/commit/8687ba60882134db8d845631bffdea9056baff37))
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* add `browserslist` to npm.txt ([#1328](https://github.com/LuizZak/cspell-dicts/issues/1328)) ([5f9efd5](https://github.com/LuizZak/cspell-dicts/commit/5f9efd5f1f973d09005db9e35f8279e702ac1c00))
+* add `dropzone` to npm.txt ([#1330](https://github.com/LuizZak/cspell-dicts/issues/1330)) ([d586c8a](https://github.com/LuizZak/cspell-dicts/commit/d586c8a366d54c3c5b244717de06cca245412ea5))
+* add `jszip` npm.txt ([#1329](https://github.com/LuizZak/cspell-dicts/issues/1329)) ([8cee12f](https://github.com/LuizZak/cspell-dicts/commit/8cee12f36c2a338642cecd603606070aad623e71))
+* add `pnpm` package manager ([#1335](https://github.com/LuizZak/cspell-dicts/issues/1335)) ([e1b5f61](https://github.com/LuizZak/cspell-dicts/commit/e1b5f619ff80108e177e80369baa147c98de04be))
+* Add posthtml ([#1499](https://github.com/LuizZak/cspell-dicts/issues/1499)) ([8cee05a](https://github.com/LuizZak/cspell-dicts/commit/8cee05a842741e98356dca28d54016ffda122808))
+* Add some package names to npm ([#1517](https://github.com/LuizZak/cspell-dicts/issues/1517)) ([753f992](https://github.com/LuizZak/cspell-dicts/commit/753f99202a034af9c71b0f8768eb5e74625be2e1))
+
+
+### Miscellaneous
+
+* release main ([#1320](https://github.com/LuizZak/cspell-dicts/issues/1320)) ([ef96333](https://github.com/LuizZak/cspell-dicts/commit/ef963333bea559bd4aa9ab5eb26c3fc4033acfb1))
+* release main ([#1334](https://github.com/LuizZak/cspell-dicts/issues/1334)) ([e170947](https://github.com/LuizZak/cspell-dicts/commit/e170947df0f94ce166ff4c9daac92392e4e6c71b))
+* release main ([#1495](https://github.com/LuizZak/cspell-dicts/issues/1495)) ([61289d1](https://github.com/LuizZak/cspell-dicts/commit/61289d1621bd7c5d2cccc763acf3ca49b8ca28a1))
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1516](https://github.com/LuizZak/cspell-dicts/issues/1516)) ([88069cd](https://github.com/LuizZak/cspell-dicts/commit/88069cd4b35f74865a19cdddec65d3da53cd1efd))
+
 ## [4.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-npm@4.0.0...@cspell/dict-npm@4.0.1) (2022-10-17)
 
 

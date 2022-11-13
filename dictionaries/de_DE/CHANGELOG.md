@@ -14,6 +14,33 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-de-de-v3.0.1...@cspell/dict-de-de@4.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Support Umlaut alternatives (#1500)
+
+### Features
+
+* Support Umlaut alternatives ([#1500](https://github.com/LuizZak/cspell-dicts/issues/1500)) ([e0e27b7](https://github.com/LuizZak/cspell-dicts/commit/e0e27b77b0050282e1b513c2909576c32efddfa6))
+
+
+### Updates and Bug Fixes
+
+* Rebuild dictionaries to reduce size ([#1554](https://github.com/LuizZak/cspell-dicts/issues/1554)) ([ec711d3](https://github.com/LuizZak/cspell-dicts/commit/ec711d37264b90f028c61f05c1e46e11ad8e76c3))
+
+
+### Miscellaneous
+
+* adjust the trie format to improve git storage ([#1371](https://github.com/LuizZak/cspell-dicts/issues/1371)) ([1b91dc7](https://github.com/LuizZak/cspell-dicts/commit/1b91dc7ff869ca1d7ece87910da9adce12504085))
+* do not store `.trie.gz` files. ([#1361](https://github.com/LuizZak/cspell-dicts/issues/1361)) ([2de0b0d](https://github.com/LuizZak/cspell-dicts/commit/2de0b0df4b8addfd69e2e6899c05f8b502799b7c))
+* force overwrite in prepare ([#1364](https://github.com/LuizZak/cspell-dicts/issues/1364)) ([5eec47e](https://github.com/LuizZak/cspell-dicts/commit/5eec47e223f1dd6370fcbc3c1b6b0361c92bbddf))
+* lock cspell-tools version ([#1541](https://github.com/LuizZak/cspell-dicts/issues/1541)) ([c6e121d](https://github.com/LuizZak/cspell-dicts/commit/c6e121dbdeee185db7abef45fb7366a507227e07))
+* release main ([#1358](https://github.com/LuizZak/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/LuizZak/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+* release main ([#1495](https://github.com/LuizZak/cspell-dicts/issues/1495)) ([61289d1](https://github.com/LuizZak/cspell-dicts/commit/61289d1621bd7c5d2cccc763acf3ca49b8ca28a1))
+* release main ([#1527](https://github.com/LuizZak/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/LuizZak/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+
 ## [3.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-de-de@3.0.0...@cspell/dict-de-de@3.0.1) (2022-10-31)
 
 

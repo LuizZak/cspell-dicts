@@ -22,6 +22,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-ca-v3.0.0...@cspell/dict-ca@4.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Catalan Dictionary to CSpell 6 (#1551)
+
+### Features
+
+* Upgrade Catalan Dictionary to CSpell 6 ([#1551](https://github.com/LuizZak/cspell-dicts/issues/1551)) ([485d3db](https://github.com/LuizZak/cspell-dicts/commit/485d3dbd5fc72418d928adf19fc02da732e7d80b))
+
+
+### Updates and Bug Fixes
+
+* Rebuild dictionaries to reduce size ([#1554](https://github.com/LuizZak/cspell-dicts/issues/1554)) ([ec711d3](https://github.com/LuizZak/cspell-dicts/commit/ec711d37264b90f028c61f05c1e46e11ad8e76c3))
+
+
+### Miscellaneous
+
+* release main ([#1527](https://github.com/LuizZak/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/LuizZak/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ca@2.0.0...@cspell/dict-ca@3.0.0) (2022-10-31)
 
 

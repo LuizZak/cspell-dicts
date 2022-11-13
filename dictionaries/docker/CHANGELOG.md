@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.4](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-docker-v1.1.3...@cspell/dict-docker@1.1.4) (2022-11-13)
+
+
+### Updates and Bug Fixes
+
+* Add Ourobros ([#1583](https://github.com/LuizZak/cspell-dicts/issues/1583)) ([58aec63](https://github.com/LuizZak/cspell-dicts/commit/58aec63b01858980960c02f13908048b3ac77c0a))
+* Add Portainer ([#1581](https://github.com/LuizZak/cspell-dicts/issues/1581)) ([a494ab0](https://github.com/LuizZak/cspell-dicts/commit/a494ab0c46a845099bf18fcb2a85450d5c359241))
+
+
+### Miscellaneous
+
+* release main ([#1575](https://github.com/LuizZak/cspell-dicts/issues/1575)) ([9ee7af5](https://github.com/LuizZak/cspell-dicts/commit/9ee7af580792efc7686e9f2693e044337910281b))
+* release main ([#1586](https://github.com/LuizZak/cspell-dicts/issues/1586)) ([bdab9e8](https://github.com/LuizZak/cspell-dicts/commit/bdab9e8a8b99d09cec1121ae6b959944d5f750d2))
+
 ## [1.1.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-docker@1.1.2...@cspell/dict-docker@1.1.3) (2022-11-06)
 
 

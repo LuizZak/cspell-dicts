@@ -22,6 +22,30 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-django-v4.0.0...@cspell/dict-django@5.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Django Dictionary (#1611)
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Upgrade Django Dictionary ([#1611](https://github.com/LuizZak/cspell-dicts/issues/1611)) ([3bded9b](https://github.com/LuizZak/cspell-dicts/commit/3bded9b6808aa1492c92fe94dae52e317bb28d6b))
+
+
+### Updates and Bug Fixes
+
+* Add legacy terms ([#1624](https://github.com/LuizZak/cspell-dicts/issues/1624)) ([2791f02](https://github.com/LuizZak/cspell-dicts/commit/2791f025672ce8c14eaa305a67d3d7a334b7682f))
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1615](https://github.com/LuizZak/cspell-dicts/issues/1615)) ([8c20cb1](https://github.com/LuizZak/cspell-dicts/commit/8c20cb186c0683008207540a7d6a2456d577b669))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-django@3.0.0...@cspell/dict-django@4.0.0) (2022-11-10)
 
 

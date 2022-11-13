@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-dotnet-v4.0.0...@cspell/dict-dotnet@5.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade dotnet Dictionary
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Upgrade dotnet Dictionary ([2fcf797](https://github.com/LuizZak/cspell-dicts/commit/2fcf79731873f1a87a3e7afca39670c6e128e995))
+
+
+### Updates and Bug Fixes
+
+* Update .Net and PHP dicts. ([#1535](https://github.com/LuizZak/cspell-dicts/issues/1535)) ([d577c9b](https://github.com/LuizZak/cspell-dicts/commit/d577c9b89a6b94a759ceed01bafd2110791d0b50))
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1527](https://github.com/LuizZak/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/LuizZak/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+* release main ([#1615](https://github.com/LuizZak/cspell-dicts/issues/1615)) ([8c20cb1](https://github.com/LuizZak/cspell-dicts/commit/8c20cb186c0683008207540a7d6a2456d577b669))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-dotnet@3.0.1...@cspell/dict-dotnet@4.0.0) (2022-11-10)
 
 

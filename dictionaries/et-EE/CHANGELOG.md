@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.8](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-et-ee-v2.0.7...@cspell/dict-et-ee@2.0.8) (2022-11-13)
+
+
+### Miscellaneous
+
+* do not store `.trie.gz` files. ([#1361](https://github.com/LuizZak/cspell-dicts/issues/1361)) ([2de0b0d](https://github.com/LuizZak/cspell-dicts/commit/2de0b0df4b8addfd69e2e6899c05f8b502799b7c))
+* force overwrite in prepare ([#1364](https://github.com/LuizZak/cspell-dicts/issues/1364)) ([5eec47e](https://github.com/LuizZak/cspell-dicts/commit/5eec47e223f1dd6370fcbc3c1b6b0361c92bbddf))
+* release main ([#1358](https://github.com/LuizZak/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/LuizZak/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+
 ## [2.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-et-ee@2.0.6...@cspell/dict-et-ee@2.0.7) (2022-08-19)
 
 

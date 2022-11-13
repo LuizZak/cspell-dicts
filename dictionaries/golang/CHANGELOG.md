@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-golang-v5.0.0...@cspell/dict-golang@6.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Go Dictionary (#1620)
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Upgrade Go Dictionary ([#1620](https://github.com/LuizZak/cspell-dicts/issues/1620)) ([f03ac92](https://github.com/LuizZak/cspell-dicts/commit/f03ac92f91d5db615a593ddbd9f2126e58997e09))
+
+
+### Updates and Bug Fixes
+
+* Add legacy terms for compatibility ([#1625](https://github.com/LuizZak/cspell-dicts/issues/1625)) ([6a23477](https://github.com/LuizZak/cspell-dicts/commit/6a234778f6bbe3e13fb9e059c3a85b1f89cd43b0))
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1615](https://github.com/LuizZak/cspell-dicts/issues/1615)) ([8c20cb1](https://github.com/LuizZak/cspell-dicts/commit/8c20cb186c0683008207540a7d6a2456d577b669))
+
 ## [5.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@4.0.0...@cspell/dict-golang@5.0.0) (2022-11-10)
 
 

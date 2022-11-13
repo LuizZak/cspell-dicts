@@ -22,6 +22,36 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-css-v4.0.0...@cspell/dict-css@5.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade CSS Dictionary (#1610)
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* add CSS values from mdn-browser-compat ([#1409](https://github.com/LuizZak/cspell-dicts/issues/1409)) ([204a54b](https://github.com/LuizZak/cspell-dicts/commit/204a54b546cb60ad578d4af1c788ca3cb9c7f8fc))
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Upgrade CSS ([e944ce6](https://github.com/LuizZak/cspell-dicts/commit/e944ce66c515d973146507e85fc8e7eb85b50dde))
+* Upgrade CSS Dictionary ([#1610](https://github.com/LuizZak/cspell-dicts/issues/1610)) ([e944ce6](https://github.com/LuizZak/cspell-dicts/commit/e944ce66c515d973146507e85fc8e7eb85b50dde))
+
+
+### Updates and Bug Fixes
+
+* Add a few CSS related words ([#1383](https://github.com/LuizZak/cspell-dicts/issues/1383)) ([0db0f2b](https://github.com/LuizZak/cspell-dicts/commit/0db0f2bf1fa1f94da0b94cad20a56c13bcc67a89))
+* Adjust the CSS dictionary to be backwards compatable. ([8334e68](https://github.com/LuizZak/cspell-dicts/commit/8334e684ee2303bc974226dbe97c99eaee48195e))
+* Adjust the CSS dictionary to be backwards compatible. ([#1623](https://github.com/LuizZak/cspell-dicts/issues/1623)) ([8334e68](https://github.com/LuizZak/cspell-dicts/commit/8334e684ee2303bc974226dbe97c99eaee48195e))
+
+
+### Miscellaneous
+
+* release main ([#1382](https://github.com/LuizZak/cspell-dicts/issues/1382)) ([99a16ee](https://github.com/LuizZak/cspell-dicts/commit/99a16ee4b40dc555351ce326bda94345e7d47421))
+* release main ([#1407](https://github.com/LuizZak/cspell-dicts/issues/1407)) ([5c72bfa](https://github.com/LuizZak/cspell-dicts/commit/5c72bfaa122e26820a4eebd65428a382b1276767))
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1615](https://github.com/LuizZak/cspell-dicts/issues/1615)) ([8c20cb1](https://github.com/LuizZak/cspell-dicts/commit/8c20cb186c0683008207540a7d6a2456d577b669))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@3.0.0...@cspell/dict-css@4.0.0) (2022-11-10)
 
 

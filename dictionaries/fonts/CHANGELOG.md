@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-fonts-v3.0.0...@cspell/dict-fonts@4.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* sync Windows 10 font list ([#1384](https://github.com/LuizZak/cspell-dicts/issues/1384)) ([28306cb](https://github.com/LuizZak/cspell-dicts/commit/28306cbde60f8069db753a60499934ba1629c60b))
+
+
+### Miscellaneous
+
+* release main ([#1382](https://github.com/LuizZak/cspell-dicts/issues/1382)) ([99a16ee](https://github.com/LuizZak/cspell-dicts/commit/99a16ee4b40dc555351ce326bda94345e7d47421))
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fonts@2.1.0...@cspell/dict-fonts@3.0.0) (2022-10-10)
 
 

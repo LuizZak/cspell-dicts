@@ -3,6 +3,55 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-companies-v3.0.3...@cspell/dict-companies@4.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* `Mockito` and `Yext` to Companies ([#1326](https://github.com/LuizZak/cspell-dicts/issues/1326)) ([9c699bc](https://github.com/LuizZak/cspell-dicts/commit/9c699bc6d0a7b0ddbf36dbef5eb7cfd24e510124))
+* add `fastlane` to `companies.txt` ([#1432](https://github.com/LuizZak/cspell-dicts/issues/1432)) ([8f76df8](https://github.com/LuizZak/cspell-dicts/commit/8f76df832b4257fa01c714ec88f58c1ac41f0417))
+* add `Swyftx` to Companies ([#1333](https://github.com/LuizZak/cspell-dicts/issues/1333)) ([32c82c8](https://github.com/LuizZak/cspell-dicts/commit/32c82c8fe71f6dd083cf0f3d95334032d6f4d88a))
+* Add Grafana to companies.txt ([#1463](https://github.com/LuizZak/cspell-dicts/issues/1463)) ([844189f](https://github.com/LuizZak/cspell-dicts/commit/844189f675b8c923005723d2aad053a6af90afd1))
+* Add new companies ([#1418](https://github.com/LuizZak/cspell-dicts/issues/1418)) ([fe4a292](https://github.com/LuizZak/cspell-dicts/commit/fe4a2927f21ed6534fa8f60fb0a39bc3241b674d))
+* Add Plex, Trakt, and Letterboxd ([20738e5](https://github.com/LuizZak/cspell-dicts/commit/20738e5a1b54cef7255c1d09765a124f088f41a6))
+* Add Portainer ([#1581](https://github.com/LuizZak/cspell-dicts/issues/1581)) ([a494ab0](https://github.com/LuizZak/cspell-dicts/commit/a494ab0c46a845099bf18fcb2a85450d5c359241))
+* Add several tech company names and their tools ([5648103](https://github.com/LuizZak/cspell-dicts/commit/5648103e6f78b68a00f4ef80624335cf0a9e98c5))
+* add Street Side Software to companies ([8ee2b42](https://github.com/LuizZak/cspell-dicts/commit/8ee2b42d9fae114cd2039431ed9d1732e5313cbc))
+* keep copy of compiled dictionary ([#1520](https://github.com/LuizZak/cspell-dicts/issues/1520)) ([7c86dd8](https://github.com/LuizZak/cspell-dicts/commit/7c86dd856e682a3f7b5d84406cacb5e921e086ed))
+* Move more software terms to tools + add a few new ones ([#1419](https://github.com/LuizZak/cspell-dicts/issues/1419)) ([0cb05bc](https://github.com/LuizZak/cspell-dicts/commit/0cb05bcc8557bd8e853c9d0f857b79dfbd7b9c27))
+* Update companies.txt ([#1526](https://github.com/LuizZak/cspell-dicts/issues/1526)) ([8d44aba](https://github.com/LuizZak/cspell-dicts/commit/8d44aba3355af7c48b3dd0b1a06ac9ecd68a9e5a))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Build Dictionaries ([#1529](https://github.com/LuizZak/cspell-dicts/issues/1529)) ([f754d0e](https://github.com/LuizZak/cspell-dicts/commit/f754d0e7a711e0e35a562644128009000f85dc3a))
+* Workflow Bot -- Build Dictionaries ([#1546](https://github.com/LuizZak/cspell-dicts/issues/1546)) ([c8f1667](https://github.com/LuizZak/cspell-dicts/commit/c8f1667d519b64f1ef16e820c2cd5718682c2730))
+* Workflow Bot -- Build Dictionaries ([#1582](https://github.com/LuizZak/cspell-dicts/issues/1582)) ([279e568](https://github.com/LuizZak/cspell-dicts/commit/279e568c2a1a872fcdcf66b29eee213277d1590c))
+
+
+### Miscellaneous
+
+* release main ([#1299](https://github.com/LuizZak/cspell-dicts/issues/1299)) ([f4a35d6](https://github.com/LuizZak/cspell-dicts/commit/f4a35d63e2fda4031434213f4bbe78c34917746d))
+* release main ([#1300](https://github.com/LuizZak/cspell-dicts/issues/1300)) ([aabd3ee](https://github.com/LuizZak/cspell-dicts/commit/aabd3ee644fc60f51b8fb3c2e7f4ad857d358ed3))
+* release main ([#1320](https://github.com/LuizZak/cspell-dicts/issues/1320)) ([ef96333](https://github.com/LuizZak/cspell-dicts/commit/ef963333bea559bd4aa9ab5eb26c3fc4033acfb1))
+* release main ([#1334](https://github.com/LuizZak/cspell-dicts/issues/1334)) ([e170947](https://github.com/LuizZak/cspell-dicts/commit/e170947df0f94ce166ff4c9daac92392e4e6c71b))
+* release main ([#1421](https://github.com/LuizZak/cspell-dicts/issues/1421)) ([f8732f8](https://github.com/LuizZak/cspell-dicts/commit/f8732f8b627c3f4c9f6060d7ab14f7c968b6d246))
+* release main ([#1433](https://github.com/LuizZak/cspell-dicts/issues/1433)) ([d7f3cb6](https://github.com/LuizZak/cspell-dicts/commit/d7f3cb6550a3080ff9a5bae12896cf53bacfb980))
+* release main ([#1464](https://github.com/LuizZak/cspell-dicts/issues/1464)) ([4830430](https://github.com/LuizZak/cspell-dicts/commit/4830430e0be2178885bab21f30d50dd203d092ee))
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1522](https://github.com/LuizZak/cspell-dicts/issues/1522)) ([abdb00b](https://github.com/LuizZak/cspell-dicts/commit/abdb00b79a6ef25f43ca3dc3eb9b13b6856796ac))
+* release main ([#1527](https://github.com/LuizZak/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/LuizZak/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+* release main ([#1575](https://github.com/LuizZak/cspell-dicts/issues/1575)) ([9ee7af5](https://github.com/LuizZak/cspell-dicts/commit/9ee7af580792efc7686e9f2693e044337910281b))
+
 ## [3.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.0.2...@cspell/dict-companies@3.0.3) (2022-11-05)
 
 
