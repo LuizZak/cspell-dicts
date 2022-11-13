@@ -3,6 +3,54 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-en_us-v4.1.0...@cspell/dict-en_us@5.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Rebuild en_US (#1553)
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Rebuild en_US ([#1553](https://github.com/LuizZak/cspell-dicts/issues/1553)) ([6a8a728](https://github.com/LuizZak/cspell-dicts/commit/6a8a728df228713febb805d1aa2a4e0a7f78e3e4))
+* Share words between all English dictionaries. ([#1633](https://github.com/LuizZak/cspell-dicts/issues/1633)) ([db0b55c](https://github.com/LuizZak/cspell-dicts/commit/db0b55ce17e02b16a23ebdf8eccdf037330afc0c))
+
+
+### Updates and Bug Fixes
+
+* Add Aruban to en_US dictionary. ([#1627](https://github.com/LuizZak/cspell-dicts/issues/1627)) ([3fb7114](https://github.com/LuizZak/cspell-dicts/commit/3fb7114d8ca821b38c78aadde94212cf2054d362))
+* Add backtick to English dictionary ([#1351](https://github.com/LuizZak/cspell-dicts/issues/1351)) ([38b97aa](https://github.com/LuizZak/cspell-dicts/commit/38b97aab0e546c3d061fbfc05718535555f01e52))
+* add guillemet to en_GB and en_US ([1b76384](https://github.com/LuizZak/cspell-dicts/commit/1b763844d16ea6ef765763f8b15693781d72c3c3))
+* fix link ([8acddef](https://github.com/LuizZak/cspell-dicts/commit/8acddef956b10dfe4288a75cff4bb224f0a8727e))
+* Rebuild dictionaries to reduce size ([#1554](https://github.com/LuizZak/cspell-dicts/issues/1554)) ([ec711d3](https://github.com/LuizZak/cspell-dicts/commit/ec711d37264b90f028c61f05c1e46e11ad8e76c3))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Build Dictionaries ([#1257](https://github.com/LuizZak/cspell-dicts/issues/1257)) ([e6e4518](https://github.com/LuizZak/cspell-dicts/commit/e6e4518e21770fa669173d89b68a32d7600f3914))
+* Workflow Bot -- Build Dictionaries ([#1352](https://github.com/LuizZak/cspell-dicts/issues/1352)) ([b4f2454](https://github.com/LuizZak/cspell-dicts/commit/b4f24543104c1bbd90646562816fc53c427fd797))
+* Workflow Bot -- Build Dictionaries ([#1390](https://github.com/LuizZak/cspell-dicts/issues/1390)) ([4ab7985](https://github.com/LuizZak/cspell-dicts/commit/4ab7985589f30cf5320889f93496ae0355ca87f4))
+* Workflow Bot -- Build Dictionaries ([#1628](https://github.com/LuizZak/cspell-dicts/issues/1628)) ([e45f722](https://github.com/LuizZak/cspell-dicts/commit/e45f7228a48f4c43ed6634cf94c088abf614f8f2))
+* Workflow Bot -- Build Dictionaries ([#1634](https://github.com/LuizZak/cspell-dicts/issues/1634)) ([1ea38f3](https://github.com/LuizZak/cspell-dicts/commit/1ea38f38d16d3799e9781be1ef2f1c169a273fd1))
+* Workflow Bot -- Build Dictionaries ([#1644](https://github.com/LuizZak/cspell-dicts/issues/1644)) ([4fbbeb0](https://github.com/LuizZak/cspell-dicts/commit/4fbbeb0939931462cc53ebc1b2c026fd5d0d0cd5))
+
+
+### Miscellaneous
+
+* adjust the trie format to improve git storage ([#1371](https://github.com/LuizZak/cspell-dicts/issues/1371)) ([1b91dc7](https://github.com/LuizZak/cspell-dicts/commit/1b91dc7ff869ca1d7ece87910da9adce12504085))
+* do not store `.trie.gz` files. ([#1361](https://github.com/LuizZak/cspell-dicts/issues/1361)) ([2de0b0d](https://github.com/LuizZak/cspell-dicts/commit/2de0b0df4b8addfd69e2e6899c05f8b502799b7c))
+* force overwrite in prepare ([#1364](https://github.com/LuizZak/cspell-dicts/issues/1364)) ([5eec47e](https://github.com/LuizZak/cspell-dicts/commit/5eec47e223f1dd6370fcbc3c1b6b0361c92bbddf))
+* lock cspell-tools version ([#1541](https://github.com/LuizZak/cspell-dicts/issues/1541)) ([c6e121d](https://github.com/LuizZak/cspell-dicts/commit/c6e121dbdeee185db7abef45fb7366a507227e07))
+* release main ([#1345](https://github.com/LuizZak/cspell-dicts/issues/1345)) ([eb97588](https://github.com/LuizZak/cspell-dicts/commit/eb97588036186663118e5cf70d8756c426714564))
+* release main ([#1358](https://github.com/LuizZak/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/LuizZak/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+* release main ([#1386](https://github.com/LuizZak/cspell-dicts/issues/1386)) ([114de11](https://github.com/LuizZak/cspell-dicts/commit/114de110aba5bc9159622afb9cf48643a1c90c50))
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1527](https://github.com/LuizZak/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/LuizZak/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+* release main ([#1615](https://github.com/LuizZak/cspell-dicts/issues/1615)) ([8c20cb1](https://github.com/LuizZak/cspell-dicts/commit/8c20cb186c0683008207540a7d6a2456d577b669))
+* release main ([#1631](https://github.com/LuizZak/cspell-dicts/issues/1631)) ([0ff60ca](https://github.com/LuizZak/cspell-dicts/commit/0ff60cafb9ed7a87ee5e745a54697ed6dd2394ee))
+
 ## [4.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.0.1...@cspell/dict-en_us@4.1.0) (2022-11-12)
 
 

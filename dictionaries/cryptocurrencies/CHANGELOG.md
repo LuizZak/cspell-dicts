@@ -22,6 +22,28 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-cryptocurrencies-v3.0.1...@cspell/dict-cryptocurrencies@4.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* Add `huobi` and `orderbook` ([#1531](https://github.com/LuizZak/cspell-dicts/issues/1531)) ([4ac7559](https://github.com/LuizZak/cspell-dicts/commit/4ac7559edcff4418b1881acf9d39ae729fa29c7b))
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1527](https://github.com/LuizZak/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/LuizZak/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+
 ## [3.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cryptocurrencies@3.0.0...@cspell/dict-cryptocurrencies@3.0.1) (2022-10-31)
 
 

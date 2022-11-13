@@ -30,6 +30,22 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [2.2.3](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-es-es-v2.2.2...@cspell/dict-es-es@2.2.3) (2022-11-13)
+
+
+### Continuous Integration
+
+* Workflow Bot -- Build Dictionaries ([#1488](https://github.com/LuizZak/cspell-dicts/issues/1488)) ([12914b6](https://github.com/LuizZak/cspell-dicts/commit/12914b6998aaeff100b4f7a30923d2228cdaffd4))
+
+
+### Miscellaneous
+
+* do not spell check additional words file. ([b815109](https://github.com/LuizZak/cspell-dicts/commit/b81510954ecc05b652a2e190f3c9b6c361881510))
+* do not store `.trie.gz` files. ([#1361](https://github.com/LuizZak/cspell-dicts/issues/1361)) ([2de0b0d](https://github.com/LuizZak/cspell-dicts/commit/2de0b0df4b8addfd69e2e6899c05f8b502799b7c))
+* force overwrite in prepare ([#1364](https://github.com/LuizZak/cspell-dicts/issues/1364)) ([5eec47e](https://github.com/LuizZak/cspell-dicts/commit/5eec47e223f1dd6370fcbc3c1b6b0361c92bbddf))
+* release main ([#1358](https://github.com/LuizZak/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/LuizZak/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+* release main ([#1468](https://github.com/LuizZak/cspell-dicts/issues/1468)) ([ffeccbd](https://github.com/LuizZak/cspell-dicts/commit/ffeccbd671f42ae2adc62694c4e231df9de668aa))
+
 ## [2.2.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-es-es@2.2.1...@cspell/dict-es-es@2.2.2) (2022-09-28)
 
 

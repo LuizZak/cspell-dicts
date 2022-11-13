@@ -22,6 +22,32 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-php-v3.0.3...@cspell/dict-php@4.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* Add endfor to PHP ([#1584](https://github.com/LuizZak/cspell-dicts/issues/1584)) ([8c5047c](https://github.com/LuizZak/cspell-dicts/commit/8c5047c07064641442ffc8ce9a608201d63bf30c))
+* Keep compiled text dictionaries ([#1519](https://github.com/LuizZak/cspell-dicts/issues/1519)) ([a2a5d29](https://github.com/LuizZak/cspell-dicts/commit/a2a5d29edebddbc443758789105ad1b175483d41))
+* Update .Net and PHP dicts. ([#1535](https://github.com/LuizZak/cspell-dicts/issues/1535)) ([d577c9b](https://github.com/LuizZak/cspell-dicts/commit/d577c9b89a6b94a759ceed01bafd2110791d0b50))
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1516](https://github.com/LuizZak/cspell-dicts/issues/1516)) ([88069cd](https://github.com/LuizZak/cspell-dicts/commit/88069cd4b35f74865a19cdddec65d3da53cd1efd))
+* release main ([#1527](https://github.com/LuizZak/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/LuizZak/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+* release main ([#1586](https://github.com/LuizZak/cspell-dicts/issues/1586)) ([bdab9e8](https://github.com/LuizZak/cspell-dicts/commit/bdab9e8a8b99d09cec1121ae6b959944d5f750d2))
+
 ## [3.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-php@3.0.2...@cspell/dict-php@3.0.3) (2022-11-06)
 
 

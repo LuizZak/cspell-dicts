@@ -22,6 +22,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [2.0.2](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-da-dk-v2.0.1...@cspell/dict-da-dk@2.0.2) (2022-11-13)
+
+
+### Updates and Bug Fixes
+
+* fix url for danish spell checker ([#1354](https://github.com/LuizZak/cspell-dicts/issues/1354)) ([3ce076f](https://github.com/LuizZak/cspell-dicts/commit/3ce076f5d8366841090fc0ad72f7d243d0f14087))
+
+
+### Miscellaneous
+
+* release main ([#1356](https://github.com/LuizZak/cspell-dicts/issues/1356)) ([8127580](https://github.com/LuizZak/cspell-dicts/commit/812758059d604a44d4a0534a90c18f1c12c17729))
+
 ## [2.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-da-dk@2.0.0...@cspell/dict-da-dk@2.0.1) (2022-08-12)
 
 

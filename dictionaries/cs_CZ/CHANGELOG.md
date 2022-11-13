@@ -22,6 +22,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-cs-cz-v3.0.0...@cspell/dict-cs-cz@4.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade to CSpell 6 format (#1552)
+
+### Features
+
+* Upgrade to CSpell 6 format ([#1552](https://github.com/LuizZak/cspell-dicts/issues/1552)) ([6102d07](https://github.com/LuizZak/cspell-dicts/commit/6102d07738f5e525819a6f90a264611129f2e158))
+
+
+### Updates and Bug Fixes
+
+* Rebuild dictionaries to reduce size ([#1554](https://github.com/LuizZak/cspell-dicts/issues/1554)) ([ec711d3](https://github.com/LuizZak/cspell-dicts/commit/ec711d37264b90f028c61f05c1e46e11ad8e76c3))
+
+
+### Miscellaneous
+
+* release main ([#1527](https://github.com/LuizZak/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/LuizZak/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cs-cz@2.0.0...@cspell/dict-cs-cz@3.0.0) (2022-10-31)
 
 

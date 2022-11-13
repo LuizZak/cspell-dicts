@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-node-v4.0.1...@cspell/dict-node@5.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* Keep compiled text dictionaries ([#1519](https://github.com/LuizZak/cspell-dicts/issues/1519)) ([a2a5d29](https://github.com/LuizZak/cspell-dicts/commit/a2a5d29edebddbc443758789105ad1b175483d41))
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1516](https://github.com/LuizZak/cspell-dicts/issues/1516)) ([88069cd](https://github.com/LuizZak/cspell-dicts/commit/88069cd4b35f74865a19cdddec65d3da53cd1efd))
+
 ## [4.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-node@4.0.0...@cspell/dict-node@4.0.1) (2022-10-17)
 
 

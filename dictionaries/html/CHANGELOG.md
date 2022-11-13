@@ -3,6 +3,45 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/LuizZak/cspell-dicts/compare/@cspell/dict-html-v4.0.1...@cspell/dict-html@5.0.0) (2022-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* add additional HTML events ([#1377](https://github.com/LuizZak/cspell-dicts/issues/1377)) ([77e7f5e](https://github.com/LuizZak/cspell-dicts/commit/77e7f5ef07662052d2e10ce92b1ebcc87727f3b1))
+* Add SVG words from mdn-browser-compat ([#1415](https://github.com/LuizZak/cspell-dicts/issues/1415)) ([560d1f4](https://github.com/LuizZak/cspell-dicts/commit/560d1f4416c09b4636127ea2ac05572029be07e0))
+* add words from HTML mdn-browser-compat ([#1410](https://github.com/LuizZak/cspell-dicts/issues/1410)) ([a5cf69e](https://github.com/LuizZak/cspell-dicts/commit/a5cf69e8de709b17f673928fc28a0e501f7e0f50))
+* Drop Support for CSpell 5. ([#1512](https://github.com/LuizZak/cspell-dicts/issues/1512)) ([687932e](https://github.com/LuizZak/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* add - html.txt : playsinline ([#1602](https://github.com/LuizZak/cspell-dicts/issues/1602)) ([b266737](https://github.com/LuizZak/cspell-dicts/commit/b26673741e67e1200ce1e7147c7b646cca580dbc))
+* Add `bday` to HTML dictionary. ([5f6c127](https://github.com/LuizZak/cspell-dicts/commit/5f6c1275442b727d4683350c5d1173cc55ebeb7e))
+* Add `impp` to HTML dictionary. ([f7acee8](https://github.com/LuizZak/cspell-dicts/commit/f7acee885cba6d9408c3613b4216505ef080f4d9))
+* add Gamepad API ([2d3597e](https://github.com/LuizZak/cspell-dicts/commit/2d3597e604499ee38460d1c1dc92f92f6530bee2))
+* add MathML tags ([#1355](https://github.com/LuizZak/cspell-dicts/issues/1355)) ([17b159a](https://github.com/LuizZak/cspell-dicts/commit/17b159ac8f13c4aff3c96a6ebcbb54d1476d07be))
+* added `nobr` entry ([#1369](https://github.com/LuizZak/cspell-dicts/issues/1369)) ([9a6525c](https://github.com/LuizZak/cspell-dicts/commit/9a6525c9cde8e1c9ade36c54019dbaf53e9eb5bc))
+* fix html dictionary build ([df86a8f](https://github.com/LuizZak/cspell-dicts/commit/df86a8f40f71963154ffb2546af0a68a5b9cd2b1))
+
+
+### Miscellaneous
+
+* release main ([#1341](https://github.com/LuizZak/cspell-dicts/issues/1341)) ([2e353aa](https://github.com/LuizZak/cspell-dicts/commit/2e353aa88d58d2ce17e4c1e642f8e0dd1cbd6785))
+* release main ([#1356](https://github.com/LuizZak/cspell-dicts/issues/1356)) ([8127580](https://github.com/LuizZak/cspell-dicts/commit/812758059d604a44d4a0534a90c18f1c12c17729))
+* release main ([#1358](https://github.com/LuizZak/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/LuizZak/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+* release main ([#1378](https://github.com/LuizZak/cspell-dicts/issues/1378)) ([b8946e2](https://github.com/LuizZak/cspell-dicts/commit/b8946e253f2fb14f983812b6d593b54f70348466))
+* release main ([#1407](https://github.com/LuizZak/cspell-dicts/issues/1407)) ([5c72bfa](https://github.com/LuizZak/cspell-dicts/commit/5c72bfaa122e26820a4eebd65428a382b1276767))
+* release main ([#1416](https://github.com/LuizZak/cspell-dicts/issues/1416)) ([9e7b7fd](https://github.com/LuizZak/cspell-dicts/commit/9e7b7fd0c1d4b6fd2920fbe24c68b077bcb28099))
+* release main ([#1417](https://github.com/LuizZak/cspell-dicts/issues/1417)) ([cbaf737](https://github.com/LuizZak/cspell-dicts/commit/cbaf7371678b9140d12abb5191af9b92496c395a))
+* release main ([#1435](https://github.com/LuizZak/cspell-dicts/issues/1435)) ([ea93b4d](https://github.com/LuizZak/cspell-dicts/commit/ea93b4ddeee6a01dafd7d7385a08aad75fa73201))
+* release main ([#1513](https://github.com/LuizZak/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/LuizZak/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1588](https://github.com/LuizZak/cspell-dicts/issues/1588)) ([6281ddf](https://github.com/LuizZak/cspell-dicts/commit/6281ddf47fdb43dd115466ff684eba7dc64785d4))
+
 ## [4.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-html@4.0.0...@cspell/dict-html@4.0.1) (2022-11-08)
 
 
